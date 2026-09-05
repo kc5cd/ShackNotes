@@ -1,5 +1,10 @@
 # JS8 Frequencies
 
+**Confidence:** Community convention · **As of:** 2026-09-05
+See [CONVENTIONS.md](../CONVENTIONS.md) for the dial-vs-operating-
+frequency note (these are dial frequencies, not where the signal
+actually sits).
+
 Default JS8Call dial frequencies by band (v0.5.x and later). Not set in
 stone — adjustable in software settings.
 
