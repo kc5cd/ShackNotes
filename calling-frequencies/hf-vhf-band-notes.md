@@ -1,5 +1,9 @@
 # HF/VHF/UHF Band Notes
 
+**Confidence:** Community convention · **As of:** 2026-09-05
+See [CONVENTIONS.md](../CONVENTIONS.md) for the `*` recommended-value
+marker and general terminology.
+
 Full-band reference notes (DX windows, RTTY/SSTV/beacon frequencies,
 PSK31, IOTA, county hunters, and VHF/UHF/SHF simplex channels) beyond
 the dedicated calling-frequency tables in
@@ -15,8 +19,8 @@ attribution.
 | 1.8285 MHz | DXpeditions frequently operate CW here |
 | 1.830–1.840 MHz | CW, RTTY, other narrowband modes — intercontinental QSOs only |
 | 1.840–1.850 MHz | CW, SSB, SSTV, other wideband modes — intercontinental QSOs only |
-| 1.825 MHz | SSB QRP calling frequency (see inconsistency note in national-calling-frequencies.md) |
-| 1.910 MHz | SSB QRP calling frequency |
+| 1.825 MHz | SSB QRP calling frequency — non-recommended alternate (see inconsistency note in national-calling-frequencies.md) |
+| 1.910 MHz\* | SSB QRP calling frequency — recommended |
 | 1.838150 MHz | PSK31 |
 
 ## 80/75 Meters
