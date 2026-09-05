@@ -1,16 +1,21 @@
 # National / Calling Frequencies
 
+**Confidence:** Community convention · **As of:** 2026-09-05
+See [CONVENTIONS.md](../CONVENTIONS.md) for the `*` recommended-value
+marker and the legal-vs-voluntary note (none of these frequencies are
+legally mandated).
+
 Reference calling frequencies for US amateur bands, compiled from
 several distinct tables/lists on the source page (see attribution in
 this folder's README). Transcribed as published — a couple of internal
-inconsistencies in the source are flagged below rather than silently
-resolved.
+inconsistencies in the source are flagged below, with a recommended
+default marked `*` rather than left as an open either-or.
 
 ## QRP Calling Frequencies — USA
 
 | Band | CW | SSB |
 |---|---|---|
-| 160m | 1.810 | 1.910 |
+| 160m | 1.810 | 1.910\* |
 | 80m | 3.560 | 3.985 |
 | 80m | 3.579 (Colorburst crystal frequency) | — |
 | 80m | 3.710 (Novice) | — |
@@ -35,8 +40,10 @@ resolved.
 
 Note: an earlier paragraph on the source page separately lists 1.825
 MHz as a 160m "SSB QRP Calling Freq," which conflicts with this
-table's 1.910 MHz. Both are reproduced here as published; 1.910 MHz is
-the value given in the structured table.
+table's 1.910 MHz. Both are reproduced here as published. 1.910 MHz
+(marked `*` above) is recommended — it's the value given in the
+source's structured table, which we treat as more authoritative than
+its prose. 1.825 MHz is the non-recommended alternate.
 
 ## QRP Calling Frequencies — Europe
 
