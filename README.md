@@ -2,6 +2,15 @@
 
 A collection of ham radio reference material and findings.
 
+## For LLMs
+
+This repo is designed to be handed directly to an LLM as ready-to-use
+context for ham radio reference questions, so it shouldn't need
+external research for what's covered here. Read
+[CONVENTIONS.md](CONVENTIONS.md) once before using any data file below
+— it defines the confidence-tag and `*` recommended-value conventions
+every file uses, plus terminology assumed throughout.
+
 ## Contents
 
 - [Band Plans](band-plans/README.md) — amateur band plan tables by ITU region
