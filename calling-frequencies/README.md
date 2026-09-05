@@ -1,5 +1,7 @@
 # Calling Frequencies
 
+**Confidence:** Community convention (see [CONVENTIONS.md](../CONVENTIONS.md))
+
 - [National calling frequencies](national-calling-frequencies.md) — QRP calling frequency tables (USA & Europe), HF portable calling frequencies, 6m calling frequencies, and VHF/UHF/SHF calling frequencies
 - [HF/VHF band notes](hf-vhf-band-notes.md) — DX windows, RTTY/SSTV/beacon frequencies, PSK31, IOTA, county hunters, and VHF/UHF/SHF simplex channel lists
 

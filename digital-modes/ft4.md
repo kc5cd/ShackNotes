@@ -1,5 +1,10 @@
 # FT4 Frequencies
 
+**Confidence:** Community convention · **As of:** 2026-09-05
+See [CONVENTIONS.md](../CONVENTIONS.md) for the dial-vs-operating-
+frequency note (these are dial frequencies, not where the signal
+actually sits).
+
 Standard FT4 dial frequencies by band.
 
 | Band | Frequency (MHz) |

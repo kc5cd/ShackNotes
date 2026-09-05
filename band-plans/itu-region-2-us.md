@@ -1,14 +1,13 @@
 # US Amateur Band Plan (ITU Region 2)
 
+**Confidence:** Regulation-grade (47 CFR 97.301) · **As of:** 2026-09-05
+See [CONVENTIONS.md](../CONVENTIONS.md) for mode abbreviations, license
+class ordering, and general terminology.
+
 United States Part 97 amateur allocations and license-class privileges,
 by band. Frequencies are band edges / sub-band edges, not channel plans.
-
-Mode abbreviations: **CW** (Morse code), **Phone** (voice), **Image**
-(fax/SSTV/etc.), **RTTY/Data** (digital modes), **MCW** (modulated CW).
-
-License classes, narrowest to widest privileges: Technician, General,
-Advanced, Extra. A band/segment with no Technician row below means
-Technician holders have no privileges there at all.
+A band/segment with no Technician row below means Technician holders
+have no privileges there at all.
 
 Source: transcribed from 47 CFR 97.301, cross-checked against the band
 data used by the NanoVNA Tuner tool in the `nanovna_api` project.
