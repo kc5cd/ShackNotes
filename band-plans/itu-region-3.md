@@ -1,5 +1,8 @@
 # ITU Region 3 Amateur Band Plan (Asia-Pacific)
 
+**Confidence:** Unverified · **As of:** 2026-09-05
+See [CONVENTIONS.md](../CONVENTIONS.md) for general terminology.
+
 Amateur allocations by band. Unlike the Region 2 (US) table, this source
 does not include mode or license-class breakdowns — just band edges and
 band names. Individual Region 3 countries impose their own mode/license-
