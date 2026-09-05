@@ -24,3 +24,18 @@ every file uses, plus terminology assumed throughout.
 - [Calling Frequencies](calling-frequencies/README.md) — national calling frequencies and broader HF/VHF band reference notes
   - [National Calling Frequencies](calling-frequencies/national-calling-frequencies.md)
   - [HF/VHF Band Notes](calling-frequencies/hf-vhf-band-notes.md)
+
+## Attribution
+
+Source material referenced throughout this repo:
+
+- **Band plans** — US (ITU Region 2) allocations transcribed from 47 CFR
+  97.301, cross-checked against band data published by the
+  [ARRL](https://www.arrl.org/). ITU Region 1 and Region 3 data
+  transcribed from AntScopeZ's `shared/itu-regions-defaults.txt`.
+- **Calling frequencies** — transcribed from ["Calling Frequencies for
+  All Bands and Modes"](https://www.k6ldf.com/calling-frequencies-for-all-bands-and-modes/)
+  by KN6RBP, Lee de Forest Amateur Radio Club (K6LDF).
+- **Digital mode frequencies** — [sigidwiki.com](https://www.sigidwiki.com/)
+  FT8/JS8 pages, cross-checked against established WSJT-X default dial
+  frequencies.
