@@ -1,5 +1,9 @@
 # ITU Region 1 Amateur Band Plan (Europe, Africa, Middle East)
 
+**Confidence:** Unverified · **As of:** 2026-09-05
+See [CONVENTIONS.md](../CONVENTIONS.md) for the `*` recommended-value
+marker and general terminology.
+
 Amateur allocations by band. Unlike the Region 2 (US) table, this source
 does not include mode or license-class breakdowns — just band edges and
 band names. Individual IARU Region 1 member societies and national
@@ -24,27 +28,29 @@ Source: transcribed from AntScopeZ's `shared/itu-regions-defaults.txt`
 | 12m | 24.890 – 24.990 MHz |
 | 10m | 28.000 – 29.700 MHz |
 | 6m | 50.000 – 52.000 MHz |
-| 4m | 69.000 – 70.500 MHz |
+| 4m | 70.000 – 70.500 MHz\* |
 | 2m | 144.000 – 146.000 MHz |
 | 70cm | 430.000 – 440.000 MHz |
-| 23cm | 1260.000 – 1300.000 MHz |
+| 23cm | 1240.000 – 1300.000 MHz\* |
 
 ## Known data-quality caveats
 
 This region's data has **not** been cross-checked against an
 authoritative source (e.g. IARU Region 1's own published band plan) the
-way Region 2's table was against 47 CFR 97.301. Two entries look
-suspicious and should be verified before relying on them:
+way Region 2's table was against 47 CFR 97.301. Two entries had a
+literal-source-vs-likely-correct conflict, resolved below per the `*`
+convention (see CONVENTIONS.md) — verify against an authoritative
+source before relying on either for anything consequential:
 
-- **4m: 69.000 – 70.500 MHz.** The 4m band as commonly allocated in
-  Region 1 countries that have it is 70.000 – 70.500 MHz. A start of
-  69.000 MHz looks like a likely transcription error (69 vs 70), but is
-  reproduced as-is from the source pending verification.
-- **23cm: 1260.000 – 1300.000 MHz.** Every other region's 23cm entry
-  (including this same source's own Region 3 line) starts at 1240 MHz,
-  not 1260 MHz. This is flagged by the source itself as a possible
-  transcription error.
+- **4m.** Recommended: 70.000 – 70.500 MHz, matching the band as
+  commonly allocated in Region 1 countries that have it. The literal
+  source value was 69.000 – 70.500 MHz — a start of 69.000 MHz looks
+  like a transcription error (69 vs 70).
+- **23cm.** Recommended: 1240.000 – 1300.000 MHz, matching every other
+  region's 23cm entry (including this same source's own Region 3 line).
+  The literal source value was 1260.000 – 1300.000 MHz, flagged by the
+  source itself as a possible transcription error.
 
-Also note: 4m (69/70 MHz) and 6m's upper limit (52 vs 54 MHz elsewhere)
+Also note: 4m (70 MHz) and 6m's upper limit (52 vs 54 MHz elsewhere)
 are not universally allocated to amateurs across all Region 1 countries
 — availability varies by national regulator.
