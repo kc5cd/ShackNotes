@@ -1,10 +1,12 @@
 # FT8 Frequencies
 
-Standard FT8 dial frequencies by band. Where a band lists more than one
-frequency, `*` marks the primary/default (the one WSJT-X ships as the
-default dial frequency for that band); the others are known secondary
-or regional alternates. Left unstarred where the primary isn't known
-with confidence.
+**Confidence:** Community convention · **As of:** 2026-09-05
+See [CONVENTIONS.md](../CONVENTIONS.md) for the `*` recommended-value
+marker and the dial-vs-operating-frequency note (these are dial
+frequencies, not where the signal actually sits).
+
+Standard FT8 dial frequencies by band. Left unstarred where the primary
+isn't known with confidence.
 
 | Band | Frequency (MHz) |
 |---|---|
